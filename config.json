@@ -1,0 +1,10 @@
+{
+    "prefix": "+",
+    "owner": "771103287281188907",
+    "hostedBy": true,
+    "everyoneMention": false,
+    "maximum_leaderboard": 50,
+    "embedcolor": "GREEN",
+    "logsColor": "RANDOM",
+    "mongoPass": "mongodb+srv://dbUser:XHdWbC3cLTdXHCzM@cluster0.ivqv1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
