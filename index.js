@@ -1005,4 +1005,4 @@ client.on('message', message => {
     }
 })
 
-client.login("OTAyODIyNTM1NTU1NTkyMjEy.YXkBAg.4HeFe0uQUqSyfB7ol_r3LkP8t5w")
+client.login("token")
