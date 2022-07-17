@@ -1,10 +1,10 @@
 {
     "prefix": "+",
-    "owner": "771103287281188907",
+    "owner": "472756649862365204",
     "hostedBy": true,
     "everyoneMention": false,
     "maximum_leaderboard": 50,
     "embedcolor": "GREEN",
     "logsColor": "RANDOM",
-    "mongoPass": "mongodb+srv://dbUser:XHdWbC3cLTdXHCzM@cluster0.ivqv1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "token": "OTk4MDMxNDY3NDEyMTkzNDQy.GCb7T3.c9YdIDTzMMj0AEUZuhn2AuBlSnShVl1eiPOL2I",
 }
